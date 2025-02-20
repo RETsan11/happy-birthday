@@ -126,8 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 50%;
-  transform: transalateX(-50%);
+  left: 200px;
   /* transform: scale(0.1); */
 }
 
